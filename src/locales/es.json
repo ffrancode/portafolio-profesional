@@ -1,0 +1,73 @@
+{
+  "home": "Inicio",
+  "about": "Sobre mí",
+  "skills": "Habilidades",
+  "contact": "Contacto",
+  "downloadCV": "Descargar CV",
+  "heroTitle": "Diseño, Código. <br><span class='gradient-text'><i>Avant-garde</i></span>",
+  "heroSubtitle": "Creo experiencias web que combinan precisión estética con tecnología moderna.",
+  "readBtn": "Ver mi trabajo",
+  "footerCredit": "Paso a paso, no dejaré de aprender.",
+  "footerText": "| Todos los derechos reservados.",
+  "tooltip": "Cambiar tipografía",
+
+
+
+  "aboutPage": {
+    "role": "Desarrollador y Diseñador Web",
+    "intro": "Con base en Argentina, creo sitios web modernos, responsivos y visualmente atractivos que fusionan tecnología y arte.",
+    "title": "Sobre Mí",
+    "description": "Apasionado por superar los límites del diseño y el desarrollo web. En aprendizaje y experimentación constante para crear interfaces digitales innovadoras y orientadas al futuro.",
+    "queryTitle": "Cualquier tipo de consulta o discusión.",
+    "queryText": "Construyamos algo genial juntos."
+  }
+,
+
+
+  "skillsPage": {
+    "title": "Mis Habilidades",
+    "intro": "Estas son las herramientas y tecnologías que utilizo para diseñar, programar y crear experiencias digitales fluidas."
+  }
+,
+
+  "contactPage": {
+    "title": "Ponte en contacto",
+    "intro": "Trabajemos juntos",
+    "name": "Tu nombre",
+    "email": "Tu correo electrónico",
+    "message": "Tu mensaje",
+    "send": "Enviar mensaje",
+    "success": "¡Mensaje enviado con éxito!",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "subtitle": "Estoy abierto a trabajos freelance y colaboraciones. No dudes en contactarme para cualquier consulta."
+  }
+,
+
+
+
+  "projectsPage": {
+    "title": "Mis Proyectos",
+    "intro": "Una selección de proyectos web que reflejan mi pasión por el diseño y desarrollo.",
+    "projects": [
+      {
+        "title": "Sistema de Reporte de Vehículos",
+        "description": "Sistema para reportar vehículos en infracción con tu celular",
+        "info": "Primera versión desplegada",
+        "image": "/icons/reporte.svg"
+      },
+      {
+        "title": "E-commerce Concept",
+        "description": "Prototipo de interfaz de tienda online responsive enfocado en UX.",
+        "info": "En desarrollo",
+        "image": "/icons/ecomm.svg"
+      },
+      {
+        "title": "Janome",
+        "description": "Proyecto de sitio web para una marca de máquinas de coser.",
+        "info": "En desarrollo",
+        "image": "/icons/coser.svg"
+      }
+    ]
+  }
+
+}
