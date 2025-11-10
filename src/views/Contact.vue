@@ -31,9 +31,7 @@
       <div class="contact-info-box">
         <h4>{{ t('contactPage.subtitle') }}</h4>
         <div class="social-icons">
-          <a
-          class="socials"
-          href="www.linkedin.com/in/ffrancode">
+          <a class="socials" href="https://www.linkedin.com/in/ffrancode/">
             <i class="fa-brands fa-linkedin">
               <img class="social-icon" src="/icons/linkedin.svg" alt="linkedin">
               LinkedIn</i>
