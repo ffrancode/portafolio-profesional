@@ -33,7 +33,7 @@
         <div class="social-icons">
           <a
           class="socials"
-          href="https://linkedin.com/ffrancode">
+          href="www.linkedin.com/in/ffrancode">
             <i class="fa-brands fa-linkedin">
               <img class="social-icon" src="/icons/linkedin.svg" alt="linkedin">
               LinkedIn</i>
